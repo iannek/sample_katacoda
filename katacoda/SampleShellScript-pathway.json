@@ -1,5 +1,11 @@
 {
   "title": "シェルスクリプト研修(サンプル",
   "description": "シェルスクリプト研修のサンプル",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "SampleShellScript",
+      "title": "SampleShellScript",
+      "description": "SampleShellScript"
+    }
+  ]
 }

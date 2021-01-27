@@ -3,9 +3,9 @@
   "description": "シェルスクリプト研修のサンプル",
   "courses": [
     {
-      "course_id": "SampleShellScript",
-      "title": "SampleShellScript",
-      "description": "SampleShellScript"
+      "course_id": "SampleShellScriptScenario",
+      "title": "SampleShellScriptScenario",
+      "description": "SampleShellScriptScenario"
     }
   ]
 }
